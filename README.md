@@ -1,148 +1,21 @@
-<div align="center">
+# 💫 About Me:
+🚀 About Me<br><br>I'm an Engineering student exploring the intersection of AI, Data Science, Machine Learning, and innovation. I love taking challenging ideas, breaking them into systems, and turning them into working products.<br><br>- 🔭 I'm currently working on: AI-powered applications, ML projects, and OPES EDGE — a multi-domain intelligent technology platform.<br>- 🤝 I'm looking to collaborate on: AI/ML projects, open-source, hackathons, research-oriented projects, and startup ideas.<br>- 🧠 I'm looking for help with: Advanced AI/ML, scalable system design, and transforming prototypes into production-ready products.<br>- 🌱 I'm currently learning: Deep Learning, Data Science, Generative AI, intelligent systems, backend architecture, and emerging AI technologies.<br>- 💬 Ask me about: AI, ML, Data Science, Python, AI tools, project architecture, hackathons, and building innovative projects.<br>- ⚡ Fun fact: I believe the best way to learn technology is to build with it, break it, fix it, and build something better.
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Jeevandeep&fontSize=60&fontColor=ffffff&desc=AI%2FML%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+AI...;Turning+prototypes+into+production...)](https://git.io/typing-svg)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/y45a5b8V) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jeevandeepk260) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeevandeep-k) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/jeevandeep_k) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@trial4learn?si=NRw0BqjmBuX92Rou) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeevandeepk260@gmail.com) 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jeevandeep2&color=764ba2&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Jeevandeep2?label=Followers&style=flat-square&color=764ba2)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Jeevandeep2&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Jeevandeep2&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jeevandeep2&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center"><a href="https://www.linkedin.com/in/jeevandeep-k" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/></a></td>
-<td align="center"><a href="https://github.com/Jeevandeep2" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/></a></td>
-<td align="center"><a href="mailto:jeevandeepk260@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/D14836" width="55" height="55" alt="Email"/></a></td>
-<td align="center"><a href="https://www.instagram.com/jeevandeepk260" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="55" height="55" alt="Instagram"/></a></td>
-<td align="center"><a href="https://discord.gg/y45a5b8V" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="55" height="55" alt="Discord"/></a></td>
-<td align="center"><a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55" alt="Portfolio"/></a><br/><sub>add link</sub></td>
-<td align="center"><a href="#" target="_blank"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="55" height="55" alt="Kaggle"/></a><br/><sub>add link</sub></td>
-<td align="center"><a href="#" target="_blank"><img src="https://cdn.simpleicons.org/googledocs/4285F4" width="55" height="55" alt="Resume"/></a><br/><sub>add link</sub></td>
-</tr>
-</table>
-
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Jeevandeep2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Jeevandeep2&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧠 Tech Stack
-
-### GenAI / LLMs
-<div align="center"><sub><i>No GenAI/LLM tools were listed in your original profile — add the icons you use (OpenAI, Gemini, Claude, Groq, Ollama, etc.) here.</i></sub></div>
-
-### Languages
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55" alt="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/>
-</div>
-
-### AI & ML
-<div align="center">
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="55" height="55" alt="scikit-learn"/>
-</div>
-
-### Data Science
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" height="55" alt="Matplotlib"/>
-</div>
-
-### Web & App Dev
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55" alt="Flask"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" height="55" alt="Bootstrap"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" height="55" alt="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React"/>
-</div>
-
-### Cloud & Infra
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55" alt="Google Cloud"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" alt="AWS"/>
-<img src="https://cdn.simpleicons.org/vercel/000000" width="55" height="55" alt="Vercel"/>
-<img src="https://cdn.simpleicons.org/netlify/00C7B7" width="55" height="55" alt="Netlify"/>
-<img src="https://cdn.simpleicons.org/render/46E3B7" width="55" height="55" alt="Render"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" height="55" alt="Firebase"/>
-</div>
-
-### Databases
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="55" height="55" alt="MS SQL Server"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" height="55" alt="SQLite"/>
-<img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="55" height="55" alt="Supabase"/>
-<img src="https://cdn.simpleicons.org/sequelize/52B0E7" width="55" height="55" alt="Sequelize"/>
-</div>
-
-### Dev Tools
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="55" height="55" alt="GitLab"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="55" height="55" alt="Jira"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55" height="55" alt="Arduino"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" height="55" alt="Figma"/>
-<img src="https://cdn.simpleicons.org/framer/000000" width="55" height="55" alt="Framer"/>
-<img src="https://cdn.simpleicons.org/canva/00C4CC" width="55" height="55" alt="Canva"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="55" height="55" alt="Blender"/>
-<img src="https://cdn.simpleicons.org/sketch/F7B500" width="55" height="55" alt="Sketch"/>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="55" height="55" alt="Power BI"/>
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Jeevandeep2&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0d1117"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevandeep2&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=c9d1d9&bg_color=0d1117"/>
-
-<img src="https://streak-stats.demolab.com/?user=Jeevandeep2&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&background=0d1117"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeevandeep2&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
-<div align="center">
-
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-```
-╔═══════════════════════════════════════════╗
-║                                             ║
-║        🚧  STATUS: BUILDING  🚧            ║
-║   Great things are built one commit,       ║
-║      one bug, and one idea at a time.      ║
-║                                             ║
-╚═══════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
