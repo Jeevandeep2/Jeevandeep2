@@ -16,8 +16,8 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Jeevandeep2&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=Jeevandeep2&theme=blue-gr&hieende_border=false)
+![](https://streak-stats.demolab.com/?user=Jeevandeep2&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=Jeevandeep2&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jeevandeep2&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -39,4 +39,3 @@
 Hello! I'm Jeevandeep, an AI & ML engineering student passionate about innovation, technology, and social impact. Excited to connect, learn, and collaborate with like-minded people.
 
 🚀 About Me<br><br>As an AI&DS Engineering student exploring the intersection of AI, Data Science, Machine Learning, and innovation. I love taking challenging ideas, breaking them into systems, and turning them into working products.<br><br>- 🔭 I'm currently working on: AI-powered applications, ML projects, and OPES EDGE — a multi-domain intelligent technology platform.<br>- 🤝 I'm looking to collaborate on: AI/ML projects, open-source, hackathons, research-oriented projects, and startup ideas.<br>- 🧠 I'm looking for help with: Advanced AI/ML, scalable system design, and transforming prototypes into production-ready products.<br>- 🌱 I'm currently learning: Deep Learning, Data Science, Generative AI, intelligent systems, backend architecture, and emerging AI technologies.<br>- 💬 Ask me about: AI, ML, Data Science, Python, AI tools, project architecture, hackathons, and building innovative projects.<br>- ⚡ Fun fact: I believe the best way to learn technology is to build with it, break it, fix it, and build something better
-
