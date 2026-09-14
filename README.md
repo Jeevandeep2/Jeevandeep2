@@ -16,8 +16,8 @@
 
 
 # 📊 GitHub Stats:
+![](https://streak-stats.demolab.com/?user=Jeevandeep2&theme=blue-gr&hieende_border=false)
 ![](https://github-readme-stats.shion.dev/api?username=Jeevandeep2&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=Jeevandeep2&theme=blue-green&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jeevandeep2&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
