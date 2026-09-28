@@ -45,6 +45,22 @@
 
 <br>
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeevandeep2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&ring_color=A78BFA" alt="GitHub Stats"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevandeep2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Jeevandeep2&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6E96&currStreakLabel=A78BFA&sideLabels=A78BFA" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevandeep2&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
 ## 👋 About Me
 
 ```yaml
@@ -80,20 +96,7 @@ fun_fact: "Best way to learn tech? Build it. Break it. Fix it. Build it better."
 
 </div>
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeevandeep2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&ring_color=A78BFA" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevandeep2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jeevandeep2&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6E96&currStreakLabel=A78BFA&sideLabels=A78BFA" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevandeep2&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
 
 ## 🚀 Featured Project
 
