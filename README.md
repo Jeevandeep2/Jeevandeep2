@@ -79,23 +79,10 @@
 
 ## 👋 About Me
 
-```yaml
-name: Jeevandeep K
-role: AI & Data Science Engineering Student
-mission: Build intelligent systems that make a real-world impact
-currently_building: OPES EDGE 🚀 (Multi-Domain Intelligent Tech Platform)
-currently_learning:
-  - Deep Learning
-  - Generative AI
-  - Scalable Backend Architecture
-  - Production-Ready ML Systems
-collaboration_interests:
-  - AI/ML Projects
-  - Open Source
-  - Hackathons
-  - Research & Startups
-fun_fact: "Best way to learn tech? Build it. Break it. Fix it. Build it better."
-```
+Hello! I'm Jeevandeep, an AI & ML engineering student passionate about innovation, technology, and social impact. Excited to connect, learn, and collaborate with like-minded people.
+
+🚀 About Me<br><br>As an AI&DS Engineering student exploring the intersection of AI, Data Science, Machine Learning, and innovation. I love taking challenging ideas, breaking them into systems, and turning them into working products.<br><br>- 🔭 I'm currently working on: AI-powered applications, ML projects, and OPES EDGE — a multi-domain intelligent technology platform.<br>- 🤝 I'm looking to collaborate on: AI/ML projects, open-source, hackathons, research-oriented projects, and startup ideas.<br>- 🧠 I'm looking for help with: Advanced AI/ML, scalable system design, and transforming prototypes into production-ready products.<br>- 🌱 I'm currently learning: Deep Learning, Data Science, Generative AI, intelligent systems, backend architecture, and emerging AI technologies.<br>- 💬 Ask me about: AI, ML, Data Science, Python, AI tools, project architecture, hackathons, and building innovative projects.<br>- ⚡ Fun fact: I believe the best way to learn technology is to build with it, break it, fix it, and build something better
+
 
 ### 🔥 What Drives Me
 
@@ -113,16 +100,9 @@ fun_fact: "Best way to learn tech? Build it. Break it. Fix it. Build it better."
 </div>
 
 
-
-## 🚀 Featured Project
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,20,24&height=110&section=header&text=OPES%20EDGE&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Multi-Domain%20Intelligent%20Technology%20Platform&descAlignY=68&descSize=15" alt="OPES EDGE"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,20,24&height=110&section=header&text=Let's%20Connect%20and%20Build%20Together&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Let's%20Build%20Like%20minded%20peoples%20Connection&descAlignY=68&descSize=15" alt="OPES EDGE"/>
 </div>
-
-> 💎 **OPES EDGE** is my flagship platform — a multi-domain intelligent technology ecosystem blending AI, ML, and scalable architecture to solve real-world problems with production-grade systems.
-
-## 🌐 Let's Connect & Build Together
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jeevandeep-k"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -132,7 +112,7 @@ fun_fact: "Best way to learn tech? Build it. Break it. Fix it. Build it better."
   <a href="https://discord.gg/y45a5b8V"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="mailto:jeevandeepk260@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
-
+<br/>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
