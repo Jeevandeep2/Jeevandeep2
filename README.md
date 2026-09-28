@@ -44,38 +44,33 @@
 </div>
 
 <br>
-<!-- 📊 GITHUB ANALYTICS -->
 
-<h2>📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Jeevandeep2&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6E96&currStreakLabel=A78BFA&sideLabels=A78BFA" alt="GitHub Streak"/>
+</div>
 
 <div align="center">
 
-  <!-- GitHub Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Jeevandeep2&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true"
+    height="180em"
+    src="https://github-readme-stats.shion.dev/api?username=Jeevandeep2&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&show_icons=true"
     alt="Jeevandeep's GitHub Stats"
   />
 
-  <br><br>
-
-  <!-- Top Languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevandeep2&layout=compact&theme=radical&hide_border=true&langs_count=8"
-    alt="Top Languages"
+    height="180em"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Jeevandeep2&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    alt="Jeevandeep's Top Languages"
   />
 
 </div>
-
-## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeevandeep2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&ring_color=A78BFA" alt="GitHub Stats"/>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevandeep2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jeevandeep2&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6E96&currStreakLabel=A78BFA&sideLabels=A78BFA" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
