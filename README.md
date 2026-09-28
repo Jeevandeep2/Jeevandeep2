@@ -48,6 +48,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img src ="https://streak-stats.demolab.com/?user=Jeevandeep2&theme=blue-green&hide_border=false"/>
   <img src="https://streak-stats.demolab.com/?user=Jeevandeep2&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6E96&currStreakLabel=A78BFA&sideLabels=A78BFA" alt="GitHub Streak"/>
 </div>
 
