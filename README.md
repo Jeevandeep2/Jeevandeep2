@@ -5,6 +5,9 @@
 </div>
 
 <!-- TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=900&height=60&lines=%F0%9F%91%8B+Hello%2C+World!+I'm+Jeevandeep+K;%F0%9F%A7%A0+Turning+Ideas+into+Intelligent+Solutions;%F0%9F%A4%96+Building+AI+%26+Machine+Learning+Projects;%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time;%F0%9F%92%A1+Code+%E2%80%A2+Create+%E2%80%A2+Innovate+%E2%80%A2+Impact;%F0%9F%8E%AF+AI+%7C+ML+%7C+Data+Science+%7C+Innovation" alt="Typing SVG"/>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=900&height=60&lines=%F0%9F%91%8B+Hello%2C+World!+I'm+Jeevandeep+K;%F0%9F%A7%A0+Turning+Coffee+into+Machine+Learning+Models;%F0%9F%9A%80+Building+OPES+EDGE+%E2%80%94+Multi-Domain+AI+Platform;%F0%9F%92%A1+Turning+Ideas+into+Production-Ready+Reality;%F0%9F%8E%AF+AI+%7C+ML+%7C+Data+Science+%7C+Innovation" alt="Typing SVG"/>
