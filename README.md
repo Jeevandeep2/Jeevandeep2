@@ -37,14 +37,6 @@
   </picture>
 </div>
 
-<!-- TROPHIES -->
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jeevandeep2&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies"/> 
-  <img src= "https://github-profile-trophy.vercel.app/?username=Jeevandeep2&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</div>
-
-
 <br>
 
 ## 📊 GitHub Analytics
@@ -69,10 +61,13 @@
 
 </div>
 
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeevandeep2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&ring_color=A78BFA" alt="GitHub Stats"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevandeep2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" alt="Top Languages"/>
+  <img
+    src="./trophy.svg"
+    alt="GitHub Trophies"
+    width="100%"
+  />
 </div>
 
 <div align="center">
@@ -98,6 +93,16 @@ Hello! I'm Jeevandeep, an AI & ML engineering student passionate about innovatio
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,react,nextjs,nodejs,flask,html,css,bootstrap,tailwind,mysql,mongodb,sqlite,postgres,firebase,supabase,tensorflow,sklearn,pandas,numpy,matplotlib,aws,gcp,vercel,netlify,git,github,gitlab,figma,blender,arduino,jira,anaconda&theme=dark" alt="Tech Stack"/>
+### 💜 "First, solve the problem. Then, write the code." 💜
+
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</div>
+
+<div align="center">
 
 </div>
 
@@ -115,16 +120,6 @@ Hello! I'm Jeevandeep, an AI & ML engineering student passionate about innovatio
   <a href="mailto:jeevandeepk260@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 <br/>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</div>
-
-<div align="center">
-
-### 💜 "First, solve the problem. Then, write the code." 💜
-
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="Footer"/>
 </div>
