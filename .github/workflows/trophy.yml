@@ -1,0 +1,27 @@
+name: Generate GitHub Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: Jeevandeep2
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit Trophy
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🏆 Update GitHub trophies"
+          file_pattern: trophy.svg
