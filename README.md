@@ -40,8 +40,10 @@
 <!-- TROPHIES -->
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jeevandeep2&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Jeevandeep2&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies"/> 
+  <img src= "https://github-profile-trophy.vercel.app/?username=Jeevandeep2&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </div>
+
 
 <br>
 
