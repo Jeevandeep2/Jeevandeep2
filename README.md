@@ -44,6 +44,27 @@
 </div>
 
 <br>
+<!-- 📊 GITHUB ANALYTICS -->
+
+<h2>📊 GitHub Analytics</h2>
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Jeevandeep2&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true"
+    alt="Jeevandeep's GitHub Stats"
+  />
+
+  <br><br>
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevandeep2&layout=compact&theme=radical&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
+
+</div>
 
 ## 📊 GitHub Analytics
 
