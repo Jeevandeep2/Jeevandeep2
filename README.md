@@ -127,6 +127,12 @@ Hello! I'm Jeevandeep, an AI & ML engineering student passionate about innovatio
   <a href="mailto:jeevandeepk260@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 <br/>
+
+<!-- FOOTER TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&height=60&lines=%F0%9F%99%8F+Thanks+for+visiting+my+profile!;%E2%AD%90+Star+a+repo+if+you+liked+something;%F0%9F%A4%9D+Open+to+collaborations+%26+open+source;%F0%9F%8C%B1+Always+learning%2C+always+building;%F0%9F%93%AB+Let's+connect+and+create+something+amazing;%F0%9F%9A%80+See+you+in+the+next+commit!" alt="Footer Typing SVG"/>
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="Footer"/>
 </div>
