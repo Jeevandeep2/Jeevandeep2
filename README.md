@@ -25,10 +25,13 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Jeevandeep2&label=%F0%9F%91%80%20PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
+
   <img src="https://img.shields.io/github/followers/Jeevandeep2?label=%E2%8F%B3%20FOLLOWERS&style=for-the-badge&color=blueviolet" alt="Followers"/>
   &nbsp;
+
   <img src="https://img.shields.io/github/stars/Jeevandeep2?label=%E2%AD%90%20STARS&style=for-the-badge&color=yellow" alt="Stars"/>
   &nbsp;
+
   <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-brightgreen?style=for-the-badge" alt="Open to Collab"/>
 </div>
 
