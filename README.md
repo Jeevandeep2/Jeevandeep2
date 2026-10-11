@@ -124,9 +124,9 @@ Hello! I'm Jeevandeep, an AI & ML engineering student passionate about innovatio
 <div align="center">
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,20,24&height=110&section=header&text=Let's%20Connect%20and%20Build%20Together&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Let's%20Build%20Like%20minded%20peoples%20Connection&descAlignY=68&descSize=15" alt="OPES EDGE"/>
-</div>
+</div> -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jeevandeep-k"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
