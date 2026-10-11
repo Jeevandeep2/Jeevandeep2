@@ -84,6 +84,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevandeep2&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
+<!-- GITHUB TROPHIES -->
+<div align="center">
+  <img src="./trophy.svg" alt="GitHub Trophies" width="100%"/>
+</div>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="./activity.svg" alt="Activity Graph" width="100%"/>
+</div>
+
 ## 👋 About Me
 
 Hello! I'm Jeevandeep, an AI & ML engineering student passionate about innovation, technology, and social impact. Excited to connect, learn, and collaborate with like-minded people.
