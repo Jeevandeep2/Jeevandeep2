@@ -72,7 +72,7 @@
 </div>
 
 
-<div align="center">
+<!-- <div align="center">
   <img
     src="./trophy.svg"
     alt="GitHub Trophies"
@@ -82,17 +82,17 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevandeep2&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
+</div> -->
 
 <!-- GITHUB TROPHIES -->
-<div align="center">
+<!-- <div align="center">
   <img src="./trophy.svg" alt="GitHub Trophies" width="100%"/>
-</div>
+</div> -->
 
 <!-- ACTIVITY GRAPH -->
-<div align="center">
+<!-- <div align="center">
   <img src="./activity.svg" alt="Activity Graph" width="100%"/>
-</div>
+</div> -->
 
 ## 👋 About Me
 
